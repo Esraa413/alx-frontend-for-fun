@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""
-Siript that codes markdown to HtmL
-"""
+'''
+A script that codes markdown to HTML
+'''
 import sys
 import os
 import re
